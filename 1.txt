@@ -7,7 +7,7 @@ trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=t
 trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=tcp&headerType=none#%D8%AD%D8%AA%D9%85%D8%A7%D9%8B%20%D8%AA%D9%88%DB%8C%20%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA%20%DA%A9%D9%84%D8%A7%DB%8C%D9%86%D8%AA%20%DA%AF%D8%B2%DB%8C%D9%86%D9%87%20Fake%20DNS%20%D8%B1%D9%88%20%D9%81%D8%B9%D8%A7%D9%84%20%DA%A9%D9%86%DB%8C%D8%AF
 
 ===================
-vless://3f7de1cd-2389-6dc7-1bf9-7c3a00000000@www.speedtest.net:443?path=%2Fmew&security=tls&encryption=none&host=smart-turbo-261.vujfeo.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&sni=smart-turbo-261.vujfeo.workers.dev#%40Zebramaxbot%201.1.1.1
-vless://3f7de1cd-2389-6dc7-1bf9-7c3a00000000@www.speedtest.net:443?path=%2Fmew&security=tls&encryption=none&host=smart-turbo-261.vujfeo.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&sni=smart-turbo-261.vujfeo.workers.dev#%40Zebramaxbot%208.8.8.8
+vless://4a57bd75-867b-4565-b7c0-8b1745582d9c@aws.k2.sync-bridge.ir:108?encryption=none&security=reality&sni=aws.amazon.com&fp=chrome&pbk=O6Gc11tW75kMjQziGXMGpgs3ftpHG7Y8tgkxPV_ELgQ&sid=81be5eda54&spx=%2F85f5320c5f53e71&type=tcp&headerType=none#%40Zebramaxbot
+
 
 
