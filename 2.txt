@@ -7,8 +7,6 @@ trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=t
 trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=tcp&headerType=none#%D8%AD%D8%AA%D9%85%D8%A7%D9%8B%20%D8%AA%D9%88%DB%8C%20%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA%20%DA%A9%D9%84%D8%A7%DB%8C%D9%86%D8%AA%20%DA%AF%D8%B2%DB%8C%D9%86%D9%87%20Fake%20DNS%20%D8%B1%D9%88%20%D9%81%D8%B9%D8%A7%D9%84%20%DA%A9%D9%86%DB%8C%D8%AF
 
 ===================
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#%40Zebramaxbot
-vless://4a57bd75-867b-4565-b7c0-8b1745582d9c@aws.k2.sync-bridge.ir:108?encryption=none&security=reality&sni=aws.amazon.com&fp=chrome&pbk=O6Gc11tW75kMjQziGXMGpgs3ftpHG7Y8tgkxPV_ELgQ&sid=81be5eda54&spx=%2F85f5320c5f53e71&type=tcp&headerType=none#%40Zebramaxbot
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#%40Zebramaxbot
+vless://891b8403-db54-43a5-83de-f10610cd60f2@199.232.78.160:443?encryption=none&security=tls&sni=Firefox.com&fp=chrome&alpn=h2&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=xhttp&host=WanCloud.global.ssl.fastly.net&path=%2F%40WanCloudFA%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&mode=auto#%40Zebramaxbot
 
 
