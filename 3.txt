@@ -7,8 +7,9 @@ trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=t
 trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=tcp&headerType=none#%D8%AD%D8%AA%D9%85%D8%A7%D9%8B%20%D8%AA%D9%88%DB%8C%20%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA%20%DA%A9%D9%84%D8%A7%DB%8C%D9%86%D8%AA%20%DA%AF%D8%B2%DB%8C%D9%86%D9%87%20Fake%20DNS%20%D8%B1%D9%88%20%D9%81%D8%B9%D8%A7%D9%84%20%DA%A9%D9%86%DB%8C%D8%AF
 
 ===================
-ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@195.58.49.34:18443?#%40Zebramaxbot
-vless://6c688f63-fad4-45d8-a6a1-1e978ed26b8b@static.86.39.13.49.clients.your-server.de:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=static.75.209.109.65.clients.your-server.de&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%40Zebramaxbot
+vless://f234330e-f9df-46e3-8f60-b2af5173c147@p11real3.greewebservices.ir:2202?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=e3085d4fc679ba12&type=tcp&headerType=none&host=play.googleapis.com#%40Zebramaxbot
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&sid=25c79e5856c7&type=tcp&headerType=none&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP#%40Zebramaxbot
+
 
 
 
