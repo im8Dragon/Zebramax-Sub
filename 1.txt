@@ -7,22 +7,22 @@ trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=t
 trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?security=tls&type=tcp&headerType=none#%D8%AD%D8%AA%D9%85%D8%A7%D9%8B%20%D8%AA%D9%88%DB%8C%20%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA%20%DA%A9%D9%84%D8%A7%DB%8C%D9%86%D8%AA%20%DA%AF%D8%B2%DB%8C%D9%86%D9%87%20Fake%20DNS%20%D8%B1%D9%88%20%D9%81%D8%B9%D8%A7%D9%84%20%DA%A9%D9%86%DB%8C%D8%AF
 
 ===================
-vless://d342d11e-d224-4463-b982-532309285094@172.64.153.153:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&host=ccc.010304.xyz&path=%2F#%40Zebramaxbot
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp%23TELEGRAM---ICV2RAY-%3Fed%3D2560#%40Zebramaxbot
-vless://d342d11e-d224-4463-b982-532309285094@172.66.1.36:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=unsafe&type=ws&path=%2F#%40Zebramaxbot
-vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&host=ccc.010304.xyz&path=%2F#%40Zebramaxbot
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&host=ccc.010304.xyz&path=%2Ffp#%40Zebramaxbot
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#%40Zebramaxbot
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080?#%40Zebramaxbot
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080?#%40Zebramaxbot
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:8080?#%40Zebramaxbot
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080?#%40Zebramaxbot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?#%40Zebramaxbot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443?#%40Zebramaxbot
+hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey#%40Zebramaxbot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080?#%40Zebramaxbot
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443?#%40Zebramaxbot
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080?#%40Zebramaxbot
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080?#%40Zebramaxbot
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080?#%40Zebramaxbot
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080?#%40Zebramaxbot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?#%40Zebramaxbot
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999?#%40Zebramaxbot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080?#%40Zebramaxbot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080?#%40Zebramaxbot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080?#%40Zebramaxbot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?#%40Zebramaxbot
+
+vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=android&type=ws&host=ccc.010304.xyz&path=%2F#%40Zebramaxbot
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#%40Zebramaxbot
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBaZWJyYW1heGJvdCIsDQogICJhZGQiOiAid3d3LnVidW50dXVwZGF0ZXMuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjgzYjA5YTY0LTFlYWYtNGM0ZC04OWVkLTg2NmQ0YjZiODExNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAid3d3LnVidW50dXVwZGF0ZXMuY29tIiwNCiAgInBhdGgiOiAiL3RydXRoIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInd3dy51YnVudHV1cGRhdGVzLmNvbSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiLA0KICAiaW5zZWN1cmUiOiAiMCIsDQogICJ2Y24iOiAiIiwNCiAgInBjcyI6ICIiDQp9
 
 
 
